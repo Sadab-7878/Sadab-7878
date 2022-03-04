@@ -24,7 +24,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / LARAVEL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadab-7878)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadab-7878&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadab-7878&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadab-7878)  
 
