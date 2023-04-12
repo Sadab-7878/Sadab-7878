@@ -7,7 +7,7 @@
 
 My Name is Sadab Uz Zaman. I am currently studying Bsc in CSE at United International University. I am a Full Stack Web Developer also.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / LARAVEL
+Skills: REACT / JS / HTML / CSS / LARAVEL
 
 - 🔭 I’m currently working on Web and Mobile Apps Development 
 - 🌱 I’m currently learning React Js, Vue Js, Laravel 
